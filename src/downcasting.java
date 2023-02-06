@@ -1,7 +1,7 @@
 //Converting a super class object type into sub class object type is called as downcasting.
 public class downcasting {
 	
-	public void view()
+	void view()
 	{
 		System.out.println("Student details are :");
 		System.out.println("Name:John P");
