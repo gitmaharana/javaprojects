@@ -3,7 +3,6 @@ abstract class Abstract_method {  // Abstract class
 
 	abstract void display(); // Abstract method
 }
-
 class Newmethod extends Abstract_method{// create a subclass
 
 	void display()//override the superclass abstract method

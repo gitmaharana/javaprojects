@@ -21,7 +21,6 @@ class Admin1 extends downcasting
 		System.out.println("Degree-60.9%\nINT-75%\nSSC-66%");
 	}
 
-
 	public static void main(String[] args) {
 		
 		//upcasted object
