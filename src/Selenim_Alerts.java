@@ -12,7 +12,6 @@ public class Selenim_Alerts {
 
 		//Launch chrome driver
 		System.setProperty("webdriver.chrome.driver","C:\\Users\\user\\Downloads\\chrome\\chromedriver.exe");
-
 		ChromeOptions capability = new ChromeOptions();
 		capability.setCapability(CapabilityType.ACCEPT_SSL_CERTS, true);
 		capability.setCapability(CapabilityType.ACCEPT_INSECURE_CERTS,true);

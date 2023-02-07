@@ -5,7 +5,7 @@ class methodoverloading_demo {
 	int roll;
 	
 	public void school(String name,int age)
-	
+
 	{
 		System.out.println(name +" "+age);
 	}
