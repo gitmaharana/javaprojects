@@ -10,7 +10,6 @@ public class Selenim_Alerts {
 
 	public static void main(String[] args) {
 
-
 		//Launch chrome driver
 		System.setProperty("webdriver.chrome.driver","C:\\Users\\user\\Downloads\\chrome\\chromedriver.exe");
 
