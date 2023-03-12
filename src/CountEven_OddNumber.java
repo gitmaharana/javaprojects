@@ -10,7 +10,6 @@ public class CountEven_OddNumber {
 
 		int even_count = 0;
 		int odd_count = 0;
-
 		while(num1>0)
 		{
 			int rem = num1%10;// idetifies the remainder value from number
