@@ -10,7 +10,6 @@ public class Super_demo {
 }
 class duper_demo extends Super_demo
 {
-
 	duper_demo(int x)
 
 	{

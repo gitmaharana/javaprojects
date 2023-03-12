@@ -20,13 +20,7 @@ public class CountEven_OddNumber {
 			else
 			{
 				odd_count++;
-			}
-			num1= num1/10; //divide the number and looped back 
-
+			} 
 		}
-		System.out.println("Overall even count is :"+even_count);
-		System.out.println("Overall odd count is :"+odd_count);
-
 	}
-
 }

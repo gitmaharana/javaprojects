@@ -26,7 +26,7 @@ public class Wrapperclass1 {
 		Integer x =new Integer(1000);
 		int y = x.intValue();
 		System.out.println(y);
-		
+	
 	}
 
 }

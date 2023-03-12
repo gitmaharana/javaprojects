@@ -5,7 +5,6 @@ public class static_var {
 	String name = "rocky";// non static variable declared
 	static int age = 45; // static variable declared
 
-
 	public static void main(String[] args) 
 	{
 		static_var s1 = new static_var();
