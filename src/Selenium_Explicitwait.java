@@ -24,7 +24,7 @@ public class Selenium_Explicitwait {
 		capability.setCapability(CapabilityType.ACCEPT_INSECURE_CERTS,true);
 		WebDriver driver = new ChromeDriver(capability);
 
-		//Launch Chrome driver URL
+		//Launch Chrome driver URL 
 		driver.get("https://sellglobal.ebay.in/seller-center/");
 
 		//Maximize the window

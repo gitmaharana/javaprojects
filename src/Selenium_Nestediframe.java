@@ -22,7 +22,7 @@ public class Selenium_Nestediframe {
 		driver.get("https://chercher.tech/practice/frames-example-selenium-webdriver");
 
 		driver.manage().window().maximize();
-
+ 
 		//iframe1 is mainframe here
 		driver.switchTo().frame("frame1");//switching to main frame or parent frame/outer frame - using id method
 		driver.switchTo().frame("frame3");//switching to child frame//inner frame - using id method

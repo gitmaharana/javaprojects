@@ -21,7 +21,7 @@ public class Selenium_Frame_iframe2 {
 		driver.get("https://www.selenium.dev/selenium/docs/api/java/index.html?overview-summary.html");
 		
 		driver.manage().window().maximize();
-		
+		 
 		//you can switch to frame by using index / name /Webelement
 		
 		//Switch to main frame using index -zeroth index attribute

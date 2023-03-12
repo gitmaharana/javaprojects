@@ -25,7 +25,7 @@ public class Selenium_radiobutton {
 		driver.get("https://testautomationpractice.blogspot.com/");
 
 		//Maximize the window
-		driver.manage().window().maximize();
+		driver.manage().window().maximize(); 
 
 		//implicit wait time of 3 seconds
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(3));

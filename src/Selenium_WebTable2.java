@@ -23,7 +23,7 @@ public class Selenium_WebTable2 {
 		//Launch Chrome driver URL
 		driver.get("https://testautomationpractice.blogspot.com/");
 
-		//Maximize the window
+		//Maximize the window 
 		driver.manage().window().maximize();
 
 		//implicit wait time of 3 seconds

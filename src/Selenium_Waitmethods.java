@@ -26,7 +26,7 @@ public class Selenium_Waitmethods {
 		driver.get("https://sellglobal.ebay.in/seller-center/");
 
 		//Maximize the window
-		driver.manage().window().maximize();
+		driver.manage().window().maximize(); 
 
 		//implicit wait time of 3 seconds
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));

@@ -14,8 +14,6 @@ public class Reversestring_number {
 		StringBuffer rev = sbf.reverse();
 		System.out.println("Reverse Number is :" +rev);
 
-
-
 		// WAP to reverse a number using String Builder class and user input
 		Scanner sc1 = new Scanner(System.in);
 		System.out.println("Enter the number to reverse");

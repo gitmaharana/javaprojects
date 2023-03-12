@@ -23,7 +23,7 @@ public class Selenium_Dropdown {
 		//Launch chrome browser
 		driver.get("https://www.opencart.com/index.php?route=account/register");
 		
-		//Maximize the browser
+		//Maximize the browser 
 		driver.manage().window().maximize();
 		
 		//implicit wait or 10secs for all the statements

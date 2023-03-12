@@ -21,7 +21,7 @@ public class Selenium_Frame_iframe {
 		String nseindex = driver.findElement(By.id("nseindex")).getText();
 		System.out.println("Value of the NSE Index today is : " +nseindex);
 		
-
+ 
 	}
 
 }

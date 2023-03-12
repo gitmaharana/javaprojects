@@ -29,7 +29,7 @@ public class Selenium_fluentWait {
 		//Launch Chrome driver URL
 		driver.get("https://sellglobal.ebay.in/seller-center/");
 
-		//Maximize the window
+		//Maximize the window 
 		driver.manage().window().maximize();
 
 		//Fluent wait for 10 seconds - addition to explicit method

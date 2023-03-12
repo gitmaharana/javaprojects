@@ -1,7 +1,7 @@
 
 package Multithreding.com;
 public class Mythread3_multiple {
-	
+
 	public static void main(String[] args) {
 	Mythread1 t=new Mythread1();
 	Mythread11 t1=new Mythread11();

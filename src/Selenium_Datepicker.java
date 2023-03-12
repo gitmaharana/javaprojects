@@ -16,7 +16,7 @@ public class Selenium_Datepicker {
 		
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\user\\Downloads\\chromedriver_new\\chromedriver.exe");
 
-		//Launch Chrome Driver
+		//Launch Chrome Driver  
 		WebDriver driver = new ChromeDriver();
 
 		//Launch URL

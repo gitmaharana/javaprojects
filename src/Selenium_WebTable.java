@@ -42,7 +42,7 @@ public class Selenium_WebTable {
 			}
 		}
 
-		
+		 
 		driver.close();
 	}
 
